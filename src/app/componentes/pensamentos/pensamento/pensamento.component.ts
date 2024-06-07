@@ -9,11 +9,12 @@ import { Pensamento } from '../pensamento';
 export class PensamentoComponent implements OnInit {
 
   @Input() pensamento: Pensamento = {
-    id: 0,
-    conteudo: 'I love Angular',
-    autoria: 'Lucas',
-    modelo: 'modelo3'
+    id: '',
+    conteudo: '',
+    autoria: '',
+    modelo: ''
   }
+
   constructor() { }
 
   ngOnInit(): void {
