@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "A repetição, é o maior ato de inteligência",
+      "autoria": "Lucas",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Centralizar div é um ato sênior",
+      "autoria": "Dev Sênior",
+      "modelo": "modelo2",
+      "id": "SJ48Tv_"
+    },
+    {
+      "conteudo": "Loop infinito é quando tomo café!",
+      "autoria": "TechLead",
+      "modelo": "modelo3",
+      "id": "epPRy_7"
+    },
+    {
+      "conteudo": "Minha aplicação vai funcionar, nem que eu precise usar o chatgpt!",
+      "autoria": "Dev estágio",
+      "modelo": "modelo2",
+      "id": "R1J0dyi"
+    }
+  ]
+}
