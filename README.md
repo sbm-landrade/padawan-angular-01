@@ -1,27 +1,28 @@
-# Memoteca
+### **Descrição:** 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+Repositório criado para aplicação prática dos conceitos do curso "HTML5 e CSS3 parte 2: posicionamento, listas e navegação" da linha de estudos "02-Frontend" do plano de estudos "Desenvolvedor Padawan".
 
-## Development server
+## Requisitos:
+node --version: v16.20.2
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+npm install -g @angular/cli@14.0.0
 
-## Code scaffolding
+## Como usar:
+abra o terminal;
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+git clone https://github.com/sbm-landrade/padawan-angular-01.git
 
-## Build
+cd memoteca
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+ng serve
 
-## Running unit tests
+acesse o navegador: http://localhost:4200/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Gerar Componentes
 
-## Running end-to-end tests
+Execute `ng generate component nome-do-componente` para gerar um novo componente.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Mais ajuda
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira a página [Visão geral do Angular CLI e referência de comandos](https://angular.io/cli).
